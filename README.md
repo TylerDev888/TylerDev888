@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🎴 TylerDev905
 
-<!--
-**TylerDev888/TylerDev888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I like to code cool things in my spare time related to video games. I have also been considered a professional developer since 2015. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Current Project: *Code Designer AI*
+- 🃏 Mips assembler/ disassembler
+- 🧠 AI script writing / suggestions 
+- 💡 custom game patch compilation
+---
+
+### 🛠️ Tech Stack
+![CSharp](https://)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+
+---
+
+### 🌱 Currently learning
+- AI integration
+- Retro UI techniques using pixel assets and SVG overlays
+---
+
+### 📫 Contact / Follow
+- 📧 Email me: `new.email@example.com`
+- 🌐 [Github (Previous)](https://github.com/tylerdev905)
+
+---
