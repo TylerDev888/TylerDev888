@@ -5,8 +5,8 @@ Hi! I like to code cool things in my spare time related to video games. I have a
 ---
 
 ### 🎮 Current Project: *Code Designer AI*
-- 🃏 Mips assembler/ disassembler
-- 🧠 AI script writing / suggestions 
+- 🃏 Game related projects
+- 🧠 AI related projects 
 - 💡 custom game patch compilation
 ---
 
@@ -19,14 +19,7 @@ Hi! I like to code cool things in my spare time related to video games. I have a
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
 ---
-
-### 🌱 Currently learning
-- AI integration
-- Retro UI techniques using pixel assets and SVG overlays
----
-
 ### 📫 Contact / Follow
-- 📧 Email me: `new.email@example.com`
 - 🌐 [Github (Previous)](https://github.com/tylerdev905)
 
 ---
