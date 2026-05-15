@@ -6,7 +6,6 @@ Hi! I like to code cool things in my spare time related to video games. I have a
 
 ### 🎮 Current Project: *Code Designer AI*
 - 🃏 Game related projects
-- 🧠 AI related projects 
 - 💡 custom game patch compilation
 ---
 
